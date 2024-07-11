@@ -1,4 +1,4 @@
-# simple-landing-page
+# moon-rock-sample-landing-page
 
 App: https://moon-rok-sample-landing-page.replit.app/
 
