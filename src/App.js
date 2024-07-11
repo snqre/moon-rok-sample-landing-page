@@ -31512,7 +31512,10 @@ var Paragraph = function({ text }) {
       flexDirection: "column",
       justifyContent: "center",
       alignItems: "center",
-      textAlign: "justify"
+      textAlign: "justify",
+      fontSize: "0.95em",
+      fontFamily: "serif",
+      fontWeight: "normal"
     },
     children: text
   }, undefined, false, undefined, this);
@@ -31528,7 +31531,7 @@ var Trademark = function() {
       justifyContent: "center",
       alignItems: "center",
       color: "#90AEAD",
-      fontSize: "1em",
+      fontSize: "0.8em",
       fontWeight: "bold"
     },
     children: "moon-rock\xAE 2024"
