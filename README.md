@@ -1,6 +1,6 @@
 # simple-landing-page
 
-App: https://simple-landing-page.replit.app/
+App: https://moon-rok-sample-landing-page.replit.app/
 
 To install dependencies:
 
