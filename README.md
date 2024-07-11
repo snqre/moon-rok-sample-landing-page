@@ -1,5 +1,7 @@
 # simple-landing-page
 
+App: https://simple-landing-page.replit.app/
+
 To install dependencies:
 
 ```bash
